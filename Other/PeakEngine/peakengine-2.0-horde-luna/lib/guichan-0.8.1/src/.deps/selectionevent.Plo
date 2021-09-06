@@ -1,9 +1,0 @@
-selectionevent.lo: selectionevent.cpp \
-  ../include/guichan/selectionevent.hpp ../include/guichan/event.hpp \
-  ../include/guichan/platform.hpp
-
-../include/guichan/selectionevent.hpp:
-
-../include/guichan/event.hpp:
-
-../include/guichan/platform.hpp:

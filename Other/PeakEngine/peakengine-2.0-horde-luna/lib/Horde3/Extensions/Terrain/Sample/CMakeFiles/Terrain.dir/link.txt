@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/Terrain.dir/app.o CMakeFiles/Terrain.dir/main.o  -o ../../../Horde3D/Binaries/Linux/Terrain ../../../Horde3D/Source/Horde3DEngine/libHorde3D.a ../../../Horde3D/Source/Horde3DUtils/libHorde3DUtils.a ../../../Horde3D/Dependencies/Source/glfw/libglfw.a ../../../Horde3D/Source/Horde3DEngine/libHorde3D.a -lGL 

@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/Knight.dir/app.cpp.o CMakeFiles/Knight.dir/main.cpp.o  -o ../../Binaries/Linux/Knight ../../Source/Horde3DEngine/libHorde3D.a ../../Source/Horde3DUtils/libHorde3DUtils.a ../../Dependencies/Source/glfw/libglfw.a ../../Source/Horde3DEngine/libHorde3D.a -lGL 

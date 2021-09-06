@@ -1,2 +1,0 @@
-/usr/bin/ar qc libHorde3DUtils.a  CMakeFiles/Horde3DUtils.dir/main.cpp.o
-/usr/bin/ranlib libHorde3DUtils.a
