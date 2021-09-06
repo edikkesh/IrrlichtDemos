@@ -1,6 +1,0 @@
-<Material>
-	<Shader source="standard.shader.xml"/>
-	
-	<TexUnit unit="0" map="wood.png" />
-	<TexUnit unit="1" map="woodnormal.png" />
-</Material>

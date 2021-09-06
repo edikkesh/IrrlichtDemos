@@ -1,6 +1,0 @@
-<Material>
-	<Shader source="building1.shader.xml"/>
-	
-	<TexUnit unit="0" map="highrise.jpg" />
-	<TexUnit unit="1" map="flat.jpg" allowCompression="false" />
-</Material>
